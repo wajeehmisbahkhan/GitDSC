@@ -6,7 +6,7 @@ void main()
   printf("Hello DSC");
   printf("Goodbye World");
 
-  printf('This line is problem');
+  printf("This line is problem");
   printf("Reply karo");
   printf("CLI");
 }
