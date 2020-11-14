@@ -8,4 +8,5 @@ void main()
 
   printf("Hello GIthub");
   printf("Reply karo");
+  printf("CLI");
 }
